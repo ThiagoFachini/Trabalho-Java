@@ -1,4 +1,4 @@
-// VendedorSenior.java
+
 public class VendedorSenior extends Vendedor {
     private double vendas;
     private static final double PORCENTAGEM = 0.08; // 8%

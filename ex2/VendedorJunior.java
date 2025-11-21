@@ -1,4 +1,4 @@
-// VendedorJunior.java
+
 public class VendedorJunior extends Vendedor {
     private double vendas;
     private static final double PORCENTAGEM = 0.05; // 5%

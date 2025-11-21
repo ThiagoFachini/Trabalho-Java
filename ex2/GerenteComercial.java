@@ -1,4 +1,4 @@
-// GerenteComercial.java
+
 import java.util.List;
 
 public class GerenteComercial extends Vendedor {

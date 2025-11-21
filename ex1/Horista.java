@@ -1,4 +1,4 @@
-// Horista.java
+
 public class Horista extends Professor {
     private int horas; // horas no mês
     private static final double VALOR_POR_HORA = 85.0;

@@ -1,4 +1,4 @@
-// Pesquisador.java
+
 public class Pesquisador extends Professor {
     private double salarioBase = 5000.0;
     private int projetosAtivos;

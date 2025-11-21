@@ -1,4 +1,4 @@
-// DedicacaoExclusiva.java
+
 public class DedicacaoExclusiva extends Professor {
     private double salarioFixo = 8000.0;
     private int titulos; // mestre/doutor counts (1 por titulação)
